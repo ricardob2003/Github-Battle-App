@@ -8,8 +8,6 @@ For more information on the course, visit **[ui.dev/classic-react](https://ui.de
 
 This project is a "Github Battle" app. You'll be able to see the most popular repos for a variety of languages as well as battle two Github users to see who has the better profile.
 
+This project showcases my capability to learn rapidly and apply software development best practices in a real-world project. It serves as a testament to my commitment to continuous learning and professional growth in software development.
+
 You can view the final project at **[battle.ui.dev](http://battle.ui.dev/)**
-
-### Branches
-
-Every (Project) video in the course coincides with a branch. If you get stuck, you can checkout the branch for that video.
